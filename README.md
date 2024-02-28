@@ -1,10 +1,9 @@
 ##  Olá ! Eu sou a Débora D'Amato 👋
-- Trabalho atualmente como  Junior Service Desk Analyst na DXC  Technology
-- 🔭  Hoje eu trabalho com Front-end e Javascript 
-- 🌱  Estudando React
+- Trabalho atualmente com gestão de licenças de softwares na DXC Technology
+- 🌱  Estudando JavaScript, HTML e CSS
 - 📫  Fale comigo pelo email debora_damato@hotmail.com
 - ⚡  Curiosidades sobre mim: Por mais que possa soar estranho, sim eu tenho descendencia italiana;
-      Eu não tenho formação no canudo, mas mexo e trabalho com TI há muito tempo; 
+      Eu não tenho formação de canudo, mas estudo e trabalho com TI há muito tempo; 
       Quer me deixar feliz? me dê um doce, chocolate ou algo que contenha muito açucar rs... 🍫🍭
 
 <div align="center">
